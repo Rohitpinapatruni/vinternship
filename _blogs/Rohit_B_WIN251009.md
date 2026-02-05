@@ -25,4 +25,5 @@ The internship didn’t pressure me. It gave me space to learn at my own pace, m
 ---
 
 Author: [Rohit P](https://www.linkedin.com/in/rohit-pinapatruni-149853300/){:target="_blank"}  
-LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/posts/rohit-pinapatruni-149853300_pinternship-developerjourney-learninginpublic-activity-7425147905562566656-loSn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE0DCgkBFBQvs4MlzmEEcPQOlGHoIQEVD4A){:target="_blank"}
+LinkedIn Article: [Read on LinkedIn](https://www.linkedin.com/pulse/what-i-learned-quietly-during-my-vinternship-vled-lab-pinapatruni-zzkgc/){:target="_blank"}
+
